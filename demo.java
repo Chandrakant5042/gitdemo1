@@ -1,7 +1,7 @@
 class demo(){
 
-	psvm(){
-sop("git demo");
+	public static void main(){
+System.out.print("git demo");
 
 	}
 }
